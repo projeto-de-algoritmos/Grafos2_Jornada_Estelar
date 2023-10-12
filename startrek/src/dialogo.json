@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "personagem": "Capitao",
+      "falas": [
+        "Spock, temos um artefato estelar altamente classificado que precisa ser entregue o mais rápido possível. Ele contém informações cruciais sobre uma possível ameaça à Federação."
+      ]
+    },
+    {
+      "personagem": "Spock",
+      "falas": [
+        "Capitão, qual é a urgência dessa missão? Existe uma razão para que eu, em particular, deva levar este artefato?"
+      ]
+    }
+  ]
+}
