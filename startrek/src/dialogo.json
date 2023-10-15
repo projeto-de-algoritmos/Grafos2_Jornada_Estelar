@@ -1,15 +1,57 @@
 {
   "items": [
     {
-      "personagem": "Capitao",
+      "personagem": "Capitao Kirk",
       "falas": [
-        "Spock, temos um artefato estelar altamente classificado que precisa ser entregue o mais rápido possível. Ele contém informações cruciais sobre uma possível ameaça à Federação."
+        "Spock, temos um artefato altamente classificado que precisa ser entregue o mais rápido possível. Ele contém informações cruciais sobre uma possível ameaça à Federação."
       ]
     },
     {
       "personagem": "Spock",
       "falas": [
         "Capitão, qual é a urgência dessa missão? Existe uma razão para que eu, em particular, deva levar este artefato?"
+      ]
+    },
+    {
+      "personagem": "Capitao Kirk",
+      "falas": [
+        "A urgência é que nossos informantes em Qo'noS, o planeta natal dos Klingons, descobriram algo que pode afetar diretamente a segurança da Federação. Eles acreditam que um oficial Klingon, o Comandante K'Tar, está disposto a ouvir nossos termos de paz e cooperação. Ele estará em seu posto avançado no planeta Rura Penthe, nas fronteiras do Império Klingon."
+      ]
+    },
+    {
+      "personagem": "Spock",
+      "falas": [
+        "Capitão, Rura Penthe é conhecido por seu clima inóspito e pela prisão de segurança máxima que abriga. Levar o artefato até lá será arriscado."
+      ]
+    },
+    {
+      "personagem": "Capitao Kirk",
+      "falas": [
+        "Exatamente, Spock. É por isso que precisamos que você vá. Você é um dos poucos que podem atravessar a fronteira Klingon-Federação sem causar suspeitas. Levará nosso navio, a uma velocidade incrível, a Qo'noS. Uma vez lá, terá que encontrar uma maneira de chegar até K'Tar em Rura Penthe."
+      ]
+    },
+    {
+      "personagem": "Spock",
+      "falas": [
+        "Entendo, Capitão. Qual é o artefato em questão?."
+      ]
+    },
+    {
+      "personagem": "Capitao Kirk",
+      "falas": [
+        "É o Tratado de Coexistência Pacífica, um documento que propõe um caminho para a paz entre nossas civilizações. Se for entregue a K'Tar e ele estiver disposto a negociar, podemos evitar um conflito eminente."
+      ]
+    },
+    {
+      "personagem": "Spock",
+      "falas": [
+        "Capitão, farei o possível para entregar o tratado com sucesso. Que a lógica e a cooperação prevaleçam."
+      ]
+    },
+    {
+      "personagem": "Spock",
+      "falas": [
+        "Boa sorte, Spock. E que você chegue a K'Tar antes que o destino da galáxia seja selado."
       ]
     }
   ]

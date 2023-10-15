@@ -41,10 +41,9 @@ function Sidebar() {
   return (
     <div className="container">
       <button className="toggle-button" onClick={toggleSidebar}>
-        {collapsed ? 'Open Sidebar' : 'Close Sidebar'}
+        {collapsed ? 'visualizar mapas da galaxia' : '<<'}
       </button>
       <div className={`sidebar ${collapsed ? 'collapsed' : ''}`}>
-        {/* <img src="https://w7.pngwing.com/pngs/388/439/png-transparent-black-star-trek-logo-logo-star-trek-starfleet-symbol-decal-miscellaneous-angle-white.png" alt="" /> */}
         <ul>
       <h1>MAPAS DA GALAXIA</h1>
           <li>mapa 1</li>

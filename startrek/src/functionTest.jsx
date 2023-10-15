@@ -5,7 +5,7 @@ const TypingEffect = ({ text }) => {
 
   useEffect(() => {
     let charIndex = 0;
-    const typingInterval = 50; // Ajuste a velocidade da digitação conforme necessário
+    const typingInterval = 50;
 
     const typeText = () => {
       if (charIndex < text.length) {

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Raleway&family=Ubuntu+Mono&family=Ubuntu:wght@300&display=swap');
+.carousel {
+  /* background-color: green; */
+  height: 80%;
+}
+.slider {
+  height: 100%;
+}
+strong {
+font-size: 25px;
+padding: 20px;
+}
+.next {
+  position: absolute;
+  color: #fff;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  top: 90%;
+  background-color: rgba(26, 36, 131, 0);
+  border: none;
+  cursor: pointer;
+  bottom: 0;
+  left: 36%;
+  transform: translateX(-70%);
+}
+.teste {
+  height: 300px;
+
+}

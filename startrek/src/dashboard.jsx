@@ -14,7 +14,7 @@ function Dashboard() {
         <source src={galaxy} type='video/mp4' />
       </video>
       <div className="aplication">
-        <h1>ola capitao kirk</h1>
+        <h1>Jornada Estelar</h1>
           <Carousel />
       </div>
     </div>
