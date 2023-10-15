@@ -1,0 +1,48 @@
+.toggle-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 2;
+  background-color: #007BFF;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sidebar {
+  width: 250px;
+  height: 100%;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: transform 0.8s;
+  z-index: 1;
+  background-color: rgba(61, 4, 75, 0.416);
+  /* background-color: rgba(89, 10, 108, 0.764); */
+  /* background-color: rgba(137, 18, 18, 0.764); */
+  box-shadow: #007BFF;
+}
+
+.sidebar.collapsed {
+  transform: translateX(-250px);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 10px;
+  color: #fff;
+  border-bottom: 1px solid #555;
+}
+h1 {
+  color: #fff;
+}
+
+/* Customize the styling as needed */

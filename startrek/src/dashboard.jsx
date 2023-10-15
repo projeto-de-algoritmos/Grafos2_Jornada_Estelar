@@ -1,11 +1,14 @@
 import galaxy from './assets/galaxy.mp4';
 import Carousel from './carrosel';
 import './style/dashboard.css';
+import Sidebar from './sidebar';
+
 
 function Dashboard() {
   
   return (
    <div className="container">
+      <Sidebar /> 
     <div className="videoTag">
       <video autoPlay loop muted>
         <source src={galaxy} type='video/mp4' />
