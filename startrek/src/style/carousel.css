@@ -20,11 +20,57 @@ padding: 20px;
   background-color: rgba(26, 36, 131, 0);
   border: none;
   cursor: pointer;
-  bottom: 0;
+  bottom: 60px;
   left: 36%;
   transform: translateX(-70%);
 }
 .teste {
   height: 300px;
 
+}
+.form-field {
+  border: none;
+  border-radius: 8px;
+  background-color: white;
+  width: 400px;
+  height: 40px;
+  font-family: 'Ubuntu';
+  color: rgba(0, 0, 0, 0.60);
+  font-size: 20px;
+  flex: 3;
+  margin: 20px;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px;
+}
+.button-visit {
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 20px;
+  border: 2px solid #230777;
+  /* border: 2px solid #ff9900; */
+  background-color: rgba(22, 75, 124, 0.51);
+  cursor: pointer;
+  font-family: 'Ubuntu';
+  color: #ffffff;
+  /* color: #ff9900; */
+  left: 50%;
+  display: block;
+  margin-left: 40%;
+  margin-top: -2%;
+  width: 20%;
+}
+label {
+  font-weight: bold;
+  font-size: 20px;
+}
+.result {
+  margin: 20px 50px 15px 170px;
+}
+a {
+  color: white;
 }

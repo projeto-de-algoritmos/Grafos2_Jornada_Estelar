@@ -46,9 +46,9 @@ function Sidebar() {
       <div className={`sidebar ${collapsed ? 'collapsed' : ''}`}>
         <ul>
       <h1>MAPAS DA GALAXIA</h1>
-          <li>mapa 1</li>
-          <li>mapa 2</li>
-          <li>mapa 3</li>
+          <li><a href='https://cdn.obsidianportal.com/map_images/363685/spaceView1.jpg'>Mapa Geral</a></li>
+          <li><a href='https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/nave/NewMaps/klingon2.jpg'>Empério Klingon</a></li>
+          <li><a href='https://www.ussventure.eng.br/LCARS-Terminal_net_arquivos/nave/NewMaps/ufp03.jpg'>Federação</a></li>
         </ul>
       </div>
     </div>
