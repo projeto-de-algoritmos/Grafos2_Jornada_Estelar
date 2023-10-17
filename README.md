@@ -20,11 +20,19 @@ Utilizando o algoritmo de Dijkstra é possível confeir o menor caminho feito po
 ## Screenshots
 **Imagem 1 - Tela Inicial** 
 
+![inicial](backpacker/src/../../startrek/src/assets/inicial.png)
+
 **Imagem 2 - História**
+
+![dialogol](backpacker/src/../../startrek/src/assets/dialogo.png)
 
 **Imagem 3 - Algoritmo**
 
-**Imagem $ - Mapa da Galáxia** 
+![algoritimo](backpacker/src/../../startrek/src/assets/algoritmo.png)
+
+**Imagem 4 - Mapa da Galáxia**
+
+![mapa](backpacker/src/../../startrek/src/assets/mapa.png)
 
 ## Instalação 
 **Linguagem**: JavaScript<br>
@@ -47,3 +55,4 @@ A aplicação disponibiliza alguns planetas do universo de startrek, basta escol
 
 ## Outros 
 
+> Referência:  <https://www.ussventure.eng.br/>.  Acesso em: 09 out. 2023.
