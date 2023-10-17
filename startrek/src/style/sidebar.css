@@ -21,8 +21,6 @@
   transition: transform 0.8s;
   z-index: 1;
   background-color: rgba(61, 4, 75, 0.416);
-  /* background-color: rgba(89, 10, 108, 0.764); */
-  /* background-color: rgba(137, 18, 18, 0.764); */
   box-shadow: #007BFF;
 }
 
@@ -44,5 +42,3 @@ li {
 h1 {
   color: #fff;
 }
-
-/* Customize the styling as needed */
